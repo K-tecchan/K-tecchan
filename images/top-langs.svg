@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="218" viewBox="0 0 350 218">
+  <defs>
+    <mask id="bar-mask">
+      <rect x="25" y="50" width="300" height="8" rx="4" fill="white"/>
+    </mask>
+  </defs>
+  <rect x="0.5" y="0.5" width="349" height="217" rx="4.5" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" fill="#58a6ff" font-size="18" font-weight="bold" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Most Used Languages</text>
+  <rect x="25" y="50" width="124.5706646418301" height="8" fill="#fcb32c" rx="4" ry="4" mask="url(#bar-mask)"/><rect x="149.5706646418301" y="50" width="68.62297650974183" height="8" fill="#dea584" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="218.1936411515719" y="50" width="57.46954667355973" height="8" fill="#00ADD8" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="275.6631878251316" y="50" width="24.533910627160814" height="8" fill="#ff5a03" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="300.19709845229244" y="50" width="11.026204400788394" height="8" fill="#3178c6" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="311.22330285308084" y="50" width="6.108032569711461" height="8" fill="#f1e05a" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="317.3313354227923" y="50" width="3.049775437009273" height="8" fill="#89e051" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="320.38111085980154" y="50" width="2.141022327054186" height="8" fill="#663399" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="322.52213318685574" y="50" width="2.477866813144205" height="8" fill="#858585" rx="0" ry="0" mask="url(#bar-mask)"/>
+  
+      <g transform="translate(25, 82)">
+        <circle cx="5" cy="-4" r="5" fill="#fcb32c"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">MDX <tspan fill="#8b949e">41.5%</tspan></text>
+      </g>
+      <g transform="translate(175, 82)">
+        <circle cx="5" cy="-4" r="5" fill="#dea584"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust <tspan fill="#8b949e">22.9%</tspan></text>
+      </g>
+      <g transform="translate(25, 106)">
+        <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Go <tspan fill="#8b949e">19.2%</tspan></text>
+      </g>
+      <g transform="translate(175, 106)">
+        <circle cx="5" cy="-4" r="5" fill="#ff5a03"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Astro <tspan fill="#8b949e">8.2%</tspan></text>
+      </g>
+      <g transform="translate(25, 130)">
+        <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">TypeScript <tspan fill="#8b949e">3.7%</tspan></text>
+      </g>
+      <g transform="translate(175, 130)">
+        <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">JavaScript <tspan fill="#8b949e">2.0%</tspan></text>
+      </g>
+      <g transform="translate(25, 154)">
+        <circle cx="5" cy="-4" r="5" fill="#89e051"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Shell <tspan fill="#8b949e">1.0%</tspan></text>
+      </g>
+      <g transform="translate(175, 154)">
+        <circle cx="5" cy="-4" r="5" fill="#663399"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">CSS <tspan fill="#8b949e">0.7%</tspan></text>
+      </g>
+      <g transform="translate(25, 178)">
+        <circle cx="5" cy="-4" r="5" fill="#858585"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Other <tspan fill="#8b949e">0.8%</tspan></text>
+      </g>
+</svg>
