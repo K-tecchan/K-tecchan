@@ -6,31 +6,31 @@
   </defs>
   <rect x="0.5" y="0.5" width="349" height="217" rx="4.5" fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="35" fill="#58a6ff" font-size="18" font-weight="bold" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Most Used Languages</text>
-  <rect x="25" y="50" width="124.5706646418301" height="8" fill="#fcb32c" rx="4" ry="4" mask="url(#bar-mask)"/><rect x="149.5706646418301" y="50" width="68.62297650974183" height="8" fill="#dea584" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="218.1936411515719" y="50" width="57.46954667355973" height="8" fill="#00ADD8" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="275.6631878251316" y="50" width="24.533910627160814" height="8" fill="#ff5a03" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="300.19709845229244" y="50" width="11.026204400788394" height="8" fill="#3178c6" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="311.22330285308084" y="50" width="6.108032569711461" height="8" fill="#f1e05a" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="317.3313354227923" y="50" width="3.049775437009273" height="8" fill="#89e051" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="320.38111085980154" y="50" width="2.141022327054186" height="8" fill="#663399" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="322.52213318685574" y="50" width="2.477866813144205" height="8" fill="#858585" rx="0" ry="0" mask="url(#bar-mask)"/>
+  <rect x="25" y="50" width="118.26596776729258" height="8" fill="#fcb32c" rx="4" ry="4" mask="url(#bar-mask)"/><rect x="143.26596776729258" y="50" width="65.38339129801258" height="8" fill="#dea584" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="208.64935906530516" y="50" width="54.56093193400079" height="8" fill="#00ADD8" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="263.2102909993059" y="50" width="25.41805507091886" height="8" fill="#3178c6" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="288.6283460702248" y="50" width="23.292214838702257" height="8" fill="#ff5a03" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="311.92056090892703" y="50" width="5.798896434309466" height="8" fill="#f1e05a" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="317.7194573432365" y="50" width="2.895422004593717" height="8" fill="#89e051" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="320.61487934783025" y="50" width="2.0326621700902257" height="8" fill="#663399" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="322.6475415179205" y="50" width="2.35245848207952" height="8" fill="#858585" rx="0" ry="0" mask="url(#bar-mask)"/>
   
       <g transform="translate(25, 82)">
         <circle cx="5" cy="-4" r="5" fill="#fcb32c"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">MDX <tspan fill="#8b949e">41.5%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">MDX <tspan fill="#8b949e">39.4%</tspan></text>
       </g>
       <g transform="translate(175, 82)">
         <circle cx="5" cy="-4" r="5" fill="#dea584"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust <tspan fill="#8b949e">22.9%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust <tspan fill="#8b949e">21.8%</tspan></text>
       </g>
       <g transform="translate(25, 106)">
         <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Go <tspan fill="#8b949e">19.2%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Go <tspan fill="#8b949e">18.2%</tspan></text>
       </g>
       <g transform="translate(175, 106)">
-        <circle cx="5" cy="-4" r="5" fill="#ff5a03"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Astro <tspan fill="#8b949e">8.2%</tspan></text>
+        <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">TypeScript <tspan fill="#8b949e">8.5%</tspan></text>
       </g>
       <g transform="translate(25, 130)">
-        <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">TypeScript <tspan fill="#8b949e">3.7%</tspan></text>
+        <circle cx="5" cy="-4" r="5" fill="#ff5a03"/>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Astro <tspan fill="#8b949e">7.8%</tspan></text>
       </g>
       <g transform="translate(175, 130)">
         <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">JavaScript <tspan fill="#8b949e">2.0%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">JavaScript <tspan fill="#8b949e">1.9%</tspan></text>
       </g>
       <g transform="translate(25, 154)">
         <circle cx="5" cy="-4" r="5" fill="#89e051"/>
