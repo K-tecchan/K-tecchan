@@ -6,19 +6,19 @@
   </defs>
   <rect x="0.5" y="0.5" width="349" height="217" rx="4.5" fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="35" fill="#58a6ff" font-size="18" font-weight="bold" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Most Used Languages</text>
-  <rect x="25" y="50" width="110.94616128951033" height="8" fill="#fcb32c" rx="4" ry="4" mask="url(#bar-mask)"/><rect x="135.94616128951031" y="50" width="69.11837178099044" height="8" fill="#00ADD8" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="205.06453307050077" y="50" width="61.97009320244463" height="8" fill="#dea584" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="267.0346262729454" y="50" width="23.844861635197503" height="8" fill="#3178c6" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="290.8794879081429" y="50" width="21.85059551002349" height="8" fill="#ff5a03" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="312.7300834181664" y="50" width="5.439986762447076" height="8" fill="#f1e05a" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="318.17007018061344" y="50" width="2.7162163620470725" height="8" fill="#89e051" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="320.8862865426605" y="50" width="1.9068551099472295" height="8" fill="#663399" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="322.79314165260774" y="50" width="2.206858347392238" height="8" fill="#858585" rx="0" ry="0" mask="url(#bar-mask)"/>
+  <rect x="25" y="50" width="109.86528076599747" height="8" fill="#fcb32c" rx="4" ry="4" mask="url(#bar-mask)"/><rect x="134.86528076599745" y="50" width="71.34954333670548" height="8" fill="#00ADD8" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="206.21482410270295" y="50" width="61.366356525084434" height="8" fill="#dea584" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="267.5811806277874" y="50" width="23.612555747118247" height="8" fill="#3178c6" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="291.1937363749056" y="50" width="21.65588532835587" height="8" fill="#ff5a03" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="312.84962170326145" y="50" width="5.386988302010458" height="8" fill="#f1e05a" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="318.2366100052719" y="50" width="2.689753929014149" height="8" fill="#89e051" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="320.9263639342861" y="50" width="1.8882777880683357" height="8" fill="#663399" rx="0" ry="0" mask="url(#bar-mask)"/><rect x="322.8146417223544" y="50" width="2.1853582776455838" height="8" fill="#858585" rx="0" ry="0" mask="url(#bar-mask)"/>
   
       <g transform="translate(25, 82)">
         <circle cx="5" cy="-4" r="5" fill="#fcb32c"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">MDX <tspan fill="#8b949e">37.0%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">MDX <tspan fill="#8b949e">36.6%</tspan></text>
       </g>
       <g transform="translate(175, 82)">
         <circle cx="5" cy="-4" r="5" fill="#00ADD8"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Go <tspan fill="#8b949e">23.0%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Go <tspan fill="#8b949e">23.8%</tspan></text>
       </g>
       <g transform="translate(25, 106)">
         <circle cx="5" cy="-4" r="5" fill="#dea584"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust <tspan fill="#8b949e">20.7%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust <tspan fill="#8b949e">20.5%</tspan></text>
       </g>
       <g transform="translate(175, 106)">
         <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
@@ -26,7 +26,7 @@
       </g>
       <g transform="translate(25, 130)">
         <circle cx="5" cy="-4" r="5" fill="#ff5a03"/>
-        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Astro <tspan fill="#8b949e">7.3%</tspan></text>
+        <text x="16" y="0" fill="#c9d1d9" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Astro <tspan fill="#8b949e">7.2%</tspan></text>
       </g>
       <g transform="translate(175, 130)">
         <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
